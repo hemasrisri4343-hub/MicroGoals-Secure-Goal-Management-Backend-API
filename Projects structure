@@ -1,0 +1,14 @@
+microgoals-api
+│
+├── server.js
+├── config
+│   └── db.js
+├── models
+│   └── Goal.js
+├── routes
+│   └── goalRoutes.js
+├── controllers
+│   └── goalController.js
+├── middleware
+│   └── authMiddleware.js
+└── package.json
